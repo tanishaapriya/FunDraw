@@ -1,4 +1,4 @@
-# 🎨 FUNRAW – Air Drawing using Hand Gestures
+# 🎨 FUNDRAW – Air Drawing using Hand Gestures
 
 A real-time computer vision project that allows users to draw in the air using hand gestures. Built using OpenCV and MediaPipe.
 
